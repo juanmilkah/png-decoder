@@ -1,7 +1,8 @@
 [package]
-name = "png-decoder"
+name = "pigo"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
 flate2 = "1.1.1"
+minifb = "0.28.0"
